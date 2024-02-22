@@ -1,0 +1,7 @@
+{
+    "input_path": "data/raw/",
+    "output_path": "data/processed/",
+    "delimiter": ",",
+    "encoding": "utf-8"
+  }
+  
